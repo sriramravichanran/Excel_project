@@ -14,7 +14,6 @@ The goal of this project is to provide easy-to-understand business insights usin
 - KPI Metrics (Sales, Profit, Quantity, Shipping Cost)
 - Region, Segment, and Category Analysis
 - User-friendly and clean dashboard layout
-jejfser jf jr e ejw 
 ---
 
 ## 🛠️ Tools & Technologies
