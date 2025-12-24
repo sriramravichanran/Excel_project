@@ -30,7 +30,7 @@ The goal of this project is to provide easy-to-understand business insights usin
 **File Type:** Excel (.xlsx / .csv)
 
 ---
-jefe'ejfe'fjefoe/jfmeff
+
 
 ## 💡 Insights Generated
 - Identified top-performing regions and products
