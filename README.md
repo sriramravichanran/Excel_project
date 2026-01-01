@@ -10,7 +10,7 @@ The goal of this project is to provide easy-to-understand business insights usin
 ## 📊 Features
 - Interactive Excel Dashboard
 - Pivot Tables and Pivot Charts
-- Slicers and Timeline Filters
+- Slicers and Timeline Filters 
 - KPI Metrics (Sales, Profit, Quantity, Shipping Cost)
 - Region, Segment, and Category Analysis
 - User-friendly and clean dashboard layout
