@@ -13,7 +13,7 @@ The goal of this project is to provide easy-to-understand business insights usin
 - Slicers and Timeline Filters  
 - KPI Metrics (Sales, Profit, Quantity, Shipping Cost)
 - Region, Segment, and Category Analysis 
-- User-friendly and clean dashboard layout
+- User-friendly and clean dashboard layout 
 ---
 
 ## 🛠️ Tools & Technologies
