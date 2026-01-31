@@ -15,7 +15,7 @@ The goal of this project is to provide easy-to-understand business insights usin
 - Region, Segment, and Category Analysis  
 - User-friendly and clean dashboard layout 
 ---
-
+ 
 ## 🛠️ Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
