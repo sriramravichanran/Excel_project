@@ -6,7 +6,7 @@ This project is an interactive **Microsoft Excel dashboard** built using the **G
 The goal of this project is to provide easy-to-understand business insights using Pivot Tables, charts, and slicers.
  
 ---
-
+ 
 ## 📊 Features
 - Interactive Excel Dashboard   
 - Pivot Tables and Pivot Charts  
