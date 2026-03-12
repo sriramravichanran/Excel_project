@@ -31,7 +31,6 @@ The goal of this project is to provide easy-to-understand business insights usin
 
 ---
 
-
 ## 💡 Insights Generated
 - Identified top-performing regions and products
 - Analyzed profit trends across categories
