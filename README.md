@@ -1,4 +1,4 @@
-# Global Superstore Sales Dashboard (Excel)
+ # Global Superstore Sales Dashboard (Excel)
 
 ## 📌 Project Overview
 This project is an interactive **Microsoft Excel dashboard** built using the **Global Superstore dataset**. The dashboard helps analyze sales performance, profit trends, product categories, customer segments, and shipping modes through visual reports.
