@@ -16,7 +16,7 @@ The goal of this project is to provide easy-to-understand business insights usin
 - User-friendly and clean dashboard layout 
 ---
    
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies  
 - Microsoft Excel
 - Pivot Tables    
 - Pivot Charts
