@@ -18,7 +18,7 @@ The goal of this project is to provide easy-to-understand business insights usin
    
 ## 🛠️ Tools & Technologies
 - Microsoft Excel
-- Pivot Tables  
+- Pivot Tables    
 - Pivot Charts
 - Slicers
 - Timelines
